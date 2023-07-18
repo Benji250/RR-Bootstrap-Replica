@@ -1,4 +1,7 @@
 import './App.css';
+import React from 'react';
+import Navbar from './components/NavBar';
+import StoreListings from './components/StoreListing';
 
 function App() {
   return (
